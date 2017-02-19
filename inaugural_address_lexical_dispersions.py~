@@ -1,0 +1,20 @@
+#Canaan McKenzie
+#NLTK practice - Lexical dispersion charts of Inaugural Address Corpus 1789 - 2009
+#MIT license
+
+
+from nltk.books import *
+from nltk.tokenize import Input_Tokenizer
+
+#TODO: expand imports from nltk.books to any source
+
+def main():
+
+
+main()
+
+def keyword(String):
+
+def userInputKeywords():
+    return user_input = nltk.word_tokenize(input("Enter keywords: "))
+    #returns 
